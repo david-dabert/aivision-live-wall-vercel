@@ -1,0 +1,1 @@
+{"name":"aivision-live-wall","private":true,"type":"module","dependencies":{"@upstash/redis":"^1.34.0","qrcode":"^1.5.4"}}
