@@ -1,1 +1,17 @@
-{"functions":{"api/*.js":{"maxDuration":30}}}
+{
+ "functions": {
+  "api/*.js": {
+   "maxDuration": 30
+  }
+ },
+ "rewrites": [
+  {
+   "source": "/vote",
+   "destination": "/vote.html"
+  },
+  {
+   "source": "/results",
+   "destination": "/results.html"
+  }
+ ]
+}
