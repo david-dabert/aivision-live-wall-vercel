@@ -1,26 +1,27 @@
-AIVISION · résolution native des 24 images et dpi effectifs par format
-station  n  fichier  pixels  dpi A0  dpi A2  dpi A3
-S1  00  real_door  941x1672  36  71  101
-S1  03  door_couple  768x1364  29  58  82
-S1  07  door_maks_night  941x1671  36  71  101
-S1  01  door_seby  941x1671  36  71  101
-S2  00  real_gate  1024x1536  33  66  93
-S2  03  gate_flavio_giant  1024x1536  33  66  93
-S2  05  gate_aronas_dark  843x1264  27  54  76
-S2  06  gate_poster  1086x1448  31  62  88
-S3  00  real_rooftops_b  1600x900  34  68  97
-S3  03  rooftops_belltower_fog  1696x2528  54  108  153
-S3  02  roof_fuoriscala_cat  1536x748  33  66  93
-S3  01  roof_alin  1373x668  29  59  83
-S4  00  real_street  900x1600  34  68  97
-S4  01  street_francesca  900x1600  34  68  97
-S4  02  street_aronas  720x1280  27  55  77
-S4  03  street_maks_market  576x1024  22  44  62
-S5  00  real_river  941x1672  36  71  101
-S5  03  river_boat  1530x2048  44  88  124
-S5  04  river_bridge  864x1232  26  53  75
-S5  01  river_flavio  928x1137  24  49  69
-S6  00  real_towers  1672x941  36  71  101
-S6  05  towers_jagoda_poster  1600x893  34  68  97
-S6  03  towers_jagoda_blossom  1362x768  29  58  82
-S6  07  towers_aronas_dragon_screenshot  740x1600  34  68  97
+AIVISION · les 24 images : rôle, format à imprimer, résolution native, dpi effectifs
+Rôle : ORIGINALE = photographie de Piotr (A2) · LAUREATE = 1re du vote (A1) · FINALISTE = 2e et 3e (A3)
+station  n  rôle  format  fichier  pixels natifs  dpi A1  dpi A2  dpi A3
+S1  00  ORIGINALE  A2  real_door  941x1672  50  71  101
+S1  03  LAUREATE  A1  door_couple  768x1364  41  58  82
+S1  07  FINALISTE  A3  door_maks_night  941x1671  50  71  101
+S1  01  FINALISTE  A3  door_seby  941x1671  50  71  101
+S2  00  ORIGINALE  A2  real_gate  1024x1536  46  66  93
+S2  03  LAUREATE  A1  gate_flavio_giant  1024x1536  46  66  93
+S2  05  FINALISTE  A3  gate_aronas_dark  843x1264  38  54  76
+S2  06  FINALISTE  A3  gate_poster  1086x1448  44  62  88
+S3  00  ORIGINALE  A2  real_rooftops_b  1600x900  48  68  97
+S3  03  LAUREATE  A1  rooftops_belltower_fog  1696x2528  76  108  153
+S3  02  FINALISTE  A3  roof_fuoriscala_cat  1536x748  46  66  93
+S3  01  FINALISTE  A3  roof_alin  1373x668  41  59  83
+S4  00  ORIGINALE  A2  real_street  900x1600  48  68  97
+S4  01  LAUREATE  A1  street_francesca  900x1600  48  68  97
+S4  02  FINALISTE  A3  street_aronas  720x1280  39  55  77
+S4  03  FINALISTE  A3  street_maks_market  576x1024  31  44  62
+S5  00  ORIGINALE  A2  real_river  941x1672  50  71  101
+S5  03  LAUREATE  A1  river_boat  1530x2048  62  88  124
+S5  04  FINALISTE  A3  river_bridge  864x1232  37  53  75
+S5  01  FINALISTE  A3  river_flavio  928x1137  34  49  69
+S6  00  ORIGINALE  A2  real_towers  1672x941  50  71  101
+S6  05  LAUREATE  A1  towers_jagoda_poster  1600x893  48  68  97
+S6  03  FINALISTE  A3  towers_jagoda_blossom  1362x768  41  58  82
+S6  07  FINALISTE  A3  towers_aronas_dragon_screenshot  740x1600  48  68  97
